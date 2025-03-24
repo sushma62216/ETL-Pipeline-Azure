@@ -1,2 +1,5 @@
 numpy
-pandas
+azure-storage-blob 
+pandas 
+requests 
+pyodbc
