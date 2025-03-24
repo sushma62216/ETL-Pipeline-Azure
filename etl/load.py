@@ -3,10 +3,10 @@ import json
 import os
 
 # Azure SQL Connection
-SERVER = "project62216.database.windows.net"
-DATABASE = "project62216"
-USERNAME = "sushmaevs"
-PASSWORD = "Sushma@2025"
+SERVER = "server-name"
+DATABASE = "database-name"
+USERNAME = "username"
+PASSWORD = "password"
 DRIVER="{ODBC Driver 17 for SQL Server}"
 
 def load_to_sql():
