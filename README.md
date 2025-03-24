@@ -1,4 +1,4 @@
-# ETL Pipeline using Azure Data Factory, Azure SQL Database, Azure Blob Storage, Python, and GitHub Codespaces
+# ETL Pipeline using Azure Cloud, Python, and GitHub Codespaces
 
 # Project Overview
 
