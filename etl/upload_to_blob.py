@@ -7,8 +7,8 @@ load_dotenv()
 
 # Read the connection string from environment variables
 AZURE_STORAGE_CONNECTION_STRING = os.getenv("AZURE_STORAGE_CONNECTION_STRING")
-container_name="raw-dataset"
-blob_name="weather_data.json"
+container_name="container-name"
+blob_name="blob-name"
 local_file_path="weather_data.json"
 
 def upload_to_blob():
